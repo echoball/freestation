@@ -1,7 +1,7 @@
 {
     "version": 1,
     "entry_package": "sources_by_sourceprivate",
-    "download_url": "https://raw.githubusercontent.com/echoball/freestation/master/sources_by_sourceprivate.json",
+    "download_url": "https://raw.githubusercontent.com/echoball/freestation/master/sources_by_sourceprivate.jar",
     "update_msg": "两个源，低调用",
 	"support_url":""
 }
