@@ -1,7 +1,7 @@
 {
-    "version": 1,
+    "version": 2,
     "entry_package": "sources_by_sourceprivate",
     "download_url": "https://raw.githubusercontent.com/echoball/freestation/master/sources_by_sourceprivate.jar",
-    "update_msg": "两个源，低调用",
+    "update_msg": "优化舞蹈视频加载速度",
 	"support_url":""
 }
